@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Depth's Blog"
 title_separator          : "|"
-subtitle                 : "Good Day" # site tagline that appears below site title in masthead
+subtitle                 : "Welcome" # site tagline that appears below site title in masthead
 name                     : "Hywn Woo Choi"
 description              : "Hywn Woo Choi Blog."
 url                      : "https://gusdn7142.github.io"
