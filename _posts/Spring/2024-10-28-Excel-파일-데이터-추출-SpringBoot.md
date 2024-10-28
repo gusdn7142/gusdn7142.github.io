@@ -325,7 +325,7 @@ ExcelDataInfo{name='testName2', address='testAddress2', phone='010-pppp-pppp', e
 
 ---
 
-**1단계)** 개발자가 직접 Index마다의 Cel Value를 꺼내 ExcelDataInfo 객체의 Field에 값을 넣어주는 로직을 제거하고 Reflection 적용
+**1단계)** 개발자가 직접 ExcelDataInfo 객체의 Field마다 값을 넣어주었던 로직을 제거하고 Reflection을 적용해 Field에 값을 주입
 
 ```java
 public List<ExcelDataInfo> extractDataFrom(MultipartFile multipartFile) throws IOException, IllegalAccessException {
