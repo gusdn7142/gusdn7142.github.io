@@ -441,7 +441,7 @@ Excel 데이터 추출시 고려해야할 점으로는 Cell과 Row가 Null일때
 
 Cell이 비어있을때에는 Null 값을 ‘ ‘로 치환해주었고, Row가 비어있을때에는 if-continue를 통해 NullPointerException을 해결할 수 있었다.
 
-그리고 더 나아가서 추출한 데이터를 저장할때 특정 Object (ex, ExcelDataInfo)에 종속적인 문제를 해결하기 위해 Reflection과 Generic Type을 사용해 어떤 Object에도 대응하여 데이터를 주입할 수 있게 되었따.. 이로써 유지보수에도 이점이 생겼고, 코드 재사용이 가능해졌다.
+그리고 더 나아가서 추출한 데이터를 저장할때 특정 Object (ex, ExcelDataInfo)에 종속적인 문제를 해결하기 위해 Reflection과 Generic Type을 사용해 어떤 Object에도 대응하여 데이터를 주입할 수 있게 되었다.. 이로써 유지보수에도 이점이 생겼고, 코드 재사용이 가능해졌다.
 
 >*전체 소스코드는 여기를 참고하면 된다.*  
 >*[https://github.com/gusdn7142/Extract_Excel_Data](https://github.com/gusdn7142/Extract_Excel_Data)*
