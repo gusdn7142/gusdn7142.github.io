@@ -203,8 +203,7 @@ Wrapper Class는  Primitive Type의 값을 감싸고 있기 때문에 int와 같
 2. 실수형
     
 
-    | type | allocated memory size 
-    (stack) | default value | value ranges |
+    | type | allocated memory size (stack) | default value | value ranges |
     | --- | --- | --- | --- |
     | float | 4byte | 0.0F |  (3.4 X 10-38) ~ (3.4 X 1038) 의 근사값 |
     | double | 8byte |  0.0 |  (1.7 X 10-308) ~ (1.7 X 10308) 의 근사값 |
