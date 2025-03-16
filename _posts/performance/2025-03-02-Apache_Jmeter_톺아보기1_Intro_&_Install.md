@@ -1,6 +1,6 @@
 ---
 layout: single                    
-title:  "Apache Jmeter 톺아보기1 - Intro & Install"   
+title:  "Apache Jmeter 톺아보기 - 1. Intro & Install"   
 categories: Performance          
 tag: [Backend]
 related_label: " "   #footer
