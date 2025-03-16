@@ -12,7 +12,7 @@ excerpt: "성능 테스트 개념, 유형, 도구, 수행 절차 이해"
 
 ### **⬛︎ 목차**
 <div style="margin-bottom:20px;"></div>
-<span style="display: block; margin-bottom: 15px;">&ensp;&ensp;<b>[1️⃣ 성능 테스트란?
+<span style="display: block; margin-bottom: 10px;">&ensp;&ensp;<b>[1️⃣ 성능 테스트란?
 ](#성능_테스트란) </b></span>
 <span style="display: block; margin-bottom: 10px;">&ensp;&ensp;<b>[2️⃣ 성능 테스트 주요 유형](#성능_테스트_주요_유형)</b></span>
 <span style="display: block; margin-bottom: 10px;">&ensp;&ensp;<b>[3️⃣ 성능 테스트 도구](#성능_테스트_도구)</b></span>
